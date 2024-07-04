@@ -1,0 +1,12 @@
+POST localhost:8000
+Accept: application/json
+Content-Type: application/json
+
+{
+  "question": "I want to block my card."
+}
+
+
+###
+#  "question": "I want to get my card status.",
+#"question": "I want to cancel my card and I want to get my card status too."
